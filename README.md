@@ -5,7 +5,7 @@
 
 
 ## My Portfolio:
-### [[In Development] Owner: Hyrium Network]](https://discord.hyrium.com) - 300 Members
+### [[In Development] Owner: Hyrium Network](https://discord.hyrium.com) - 300 Members
 - Hyrium is an upcoming server for Minecraft: Bedrock Edition - Minigames, Practice & UHC
 
 ### [[In Development] Owner: Wave Client](https://discord.gg/waveclient) - Not opened to public
