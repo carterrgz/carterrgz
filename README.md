@@ -18,22 +18,16 @@
 - **Consultation**: Providing advice on server improvement and growth strategies.
 
 ## Examples of My Work
-### Server 1: [Server Name](server-invite-link)
+### Owner: [Hyrium Network](https://discord.hyrium.com)
 - Description of what you did, features added, etc.
 
-### Server 2: [Server Name](server-invite-link)
+### Owner: [Wave Client](https://discord.gg/waveclient)
 - Description of what you did, features added, etc.
 
-### Server 3: [Server Name](server-invite-link)
+### Manager: [Zylon Network](https://discord.gg/zylon)
 - Description of what you did, features added, etc.
+
 
 ## Contact
-- **Email**: your.email@example.com
-- **Discord**: YourDiscordTag#1234
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/YourProfile)
-
-## Testimonials
-> "User's management skills have greatly improved our community engagement!" - Client A
-
-> "Thanks to User, our server is now more organized and active." - Client B
+- **Email**: carterrgz@gmail.com
+- **Discord**: carterr.gz
