@@ -18,14 +18,14 @@
 - **Consultation**: Providing advice on server improvement and growth strategies.
 
 ## Examples of My Work
-### Owner: [Hyrium Network](https://discord.hyrium.com)
-- Description of what you did, features added, etc.
+### (In Development) Owner: [Hyrium Network](https://discord.hyrium.com)
+- Hyrium is an upcoming server for Minecraft: Bedrock Edition - Minigames, Practice & UHC
 
-### Owner: [Wave Client](https://discord.gg/waveclient)
-- Description of what you did, features added, etc.
+### (In Development) Owner: [Wave Client](https://discord.gg/waveclient)
+- The #1 Free Client for Minecraft: Bedrock Edition - Unique Features, Cosmetics & FPS Booster
 
-### Manager: [Zylon Network](https://discord.gg/zylon)
-- Description of what you did, features added, etc.
+### (Coming Soon) Manager: [Zylon Network](https://discord.gg/zylon)
+- Promising Practice Server for Minecraft: Bedrock Edition - Duels, FFA & Challenges
 
 
 ## Contact
